@@ -1,4 +1,4 @@
-# LeetCode-Practice
+# LeetCode-Practice [link](https://leetcode.com/)
 
 Welcome to my LeetCode Practice repository! Here, I solve various coding challenges from the LeetCode platform using Python. Each problem is solved step by step, with explanations and examples provided.
 
